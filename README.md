@@ -1,5 +1,8 @@
 # Attendify Face App
 
+![attend](https://github.com/YaraElBassaal/Attendify-Recognition-App/assets/124288726/2508a70d-21ff-442a-97da-b3c4ebefa38c)
+![attens2](https://github.com/YaraElBassaal/Attendify-Recognition-App/assets/124288726/24b1a8b2-defd-424f-a4b2-179031026976)
+
 ## Overview
 
 Attendify Face App is an innovative application designed to streamline the attendance process for college students by utilizing face recognition technology. The app identifies students by their ID numbers from photos and generates an Excel file, making it convenient for professors to manage attendance records.
